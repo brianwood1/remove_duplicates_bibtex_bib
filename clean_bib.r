@@ -1,4 +1,4 @@
-#read in a bibtex entry
+
 if("RefManageR" %in% rownames(installed.packages()) == FALSE) {install.packages("RefManageR")}
 library(RefManageR)
 
